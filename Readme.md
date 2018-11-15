@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/MvcPivotChartIntegration/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/MvcPivotChartIntegration/Controllers/HomeController.vb))
+* [PivotGridSettingsHelper.cs](./CS/MvcPivotChartIntegration/Helper/PivotGridSettingsHelper.cs) (VB: [PivotGridSettingsHelper.vb](./VB/MvcPivotChartIntegration/Helper/PivotGridSettingsHelper.vb))
+* [_ChartPartial.cshtml](./CS/MvcPivotChartIntegration/Views/Home/_ChartPartial.cshtml)
+* [_PivotGridPartial.cshtml](./CS/MvcPivotChartIntegration/Views/Home/_PivotGridPartial.cshtml)
+* [Index.cshtml](./CS/MvcPivotChartIntegration/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to update MVCxChartControl control according change made in the attached MVCxPivotGrid
 
 
