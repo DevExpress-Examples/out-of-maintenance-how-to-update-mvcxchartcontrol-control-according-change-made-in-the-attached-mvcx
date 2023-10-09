@@ -1,1 +1,0 @@
-@Html.DevExpress().PivotGrid(MvcApplication1.Helper.PivotGridSettingsHelper.CreatePivotGridSettings()).Bind(Model).GetHtml()
